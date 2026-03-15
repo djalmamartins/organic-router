@@ -1,8 +1,7 @@
+
 {
   "name": "djalmamartins/organic-router",
-  "description": "High performance PHP router with subdomain support",
-  "type": "library",
-  "license": "MIT",
+  "description": "Organic PHP Router",
   "autoload": {
     "psr-4": {
       "Organic\\Router\\": "src/"

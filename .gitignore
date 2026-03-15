@@ -1,5 +1,13 @@
-/vendor
-composer.lock
+/vendor/
+/composer.lock
+
+/node_modules/
+
+.env
+
+.DS_Store
 .idea
 .vscode
-.DS_Store
+
+/public/storage
+/public/cache
