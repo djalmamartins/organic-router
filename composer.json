@@ -1,7 +1,16 @@
-
 {
-  "name": "djalmamartins/organic-router",
-  "description": "Organic PHP Router",
+  "name": "organic/router",
+  "description": "Lightweight PHP router with middleware support",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Djalma Martins",
+      "email": "djalma-martins@hotmail.com",
+      "homepage": "https://github.com/djalmamartins",
+      "role": "Developer"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "Organic\\Router\\": "src/"
